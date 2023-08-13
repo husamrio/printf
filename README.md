@@ -154,5 +154,4 @@ All the above options work well together.
 ```
 
 ## Authors
-Sidney Burkett  
-Daniel Kazemian
+Hussein Abdullahi
